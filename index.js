@@ -39,7 +39,7 @@ function App(){
 
               <div onClick={()=>display("/")} className="padButton div">/</div>
 
-              <div onClick={()=>display("*")} className="padButton times">X</div>
+              <div onClick={()=>display("*")} className="padButton times">x</div>
 
               <div onClick={()=>display("7")} className="padButton seven dark-gray">7</div>
 
