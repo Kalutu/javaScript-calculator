@@ -29,7 +29,8 @@ function App() {
     };
   
     return (
-      <div className="container">
+      <div>
+        <div className="container">
         <div className="grid">
           <div className="dis">
             <input type="text" value={expression} placeholder="0" disabled />
@@ -104,10 +105,12 @@ function App() {
           </div>
   
           <div onClick={() => display(".")} className="padButton dot dark-gray">
-            .
           </div>
         </div>
       </div>
+      <h5>By Kalutu Daniel</h5>
+      </div>
+      
     );
   }
   
