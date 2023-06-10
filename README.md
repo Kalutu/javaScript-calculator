@@ -22,24 +22,18 @@ To get a local copy of the calculator app up and running, follow these steps:
    ```bash
    git clone https://github.com/your-username/calculator-app.git
 2. Change your directory to the cloned repository:
-```
-bash
-Copy code
-cd calculator-app
-```
+   ```bash
+   cd calculator-app
+   ```
 3. Install the dependencies:
-```
-bash
-Copy code
-npm install
-```
+   ```bash
+   npm install
+   ```
 4. Start the development server:
-```
-bash
-Copy code
-npm start
-Open your web browser and visit http://localhost:3000 to see the calculator app in action.
-```
+   ```bash
+   npm start
+   Open your web browser and visit http://localhost:3000 to see the calculator app in action.
+   ```
 # Usage
 The Calculator App allows users to perform basic arithmetic calculations. Follow the steps below to use the app effectively:
 1. Enter Numbers: Click on the calculator buttons to enter numbers. The input field will display the expression as you enter the numbers.
