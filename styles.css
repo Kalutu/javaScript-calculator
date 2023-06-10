@@ -84,3 +84,8 @@ input::placeholder{
 .equal {
     grid-area: equal;
 }
+
+h5 {
+    padding-top: 25px;
+    text-align: center;
+}
