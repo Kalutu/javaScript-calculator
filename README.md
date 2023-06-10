@@ -58,3 +58,12 @@ Remember to follow the basic rules of arithmetic operations. The calculator app 
 
 Enjoy using the Calculator App for your everyday arithmetic calculations!
 
+## Contributing
+Contributions to the drum machine application are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## Credits
+This JavaScript Calculator project is part of the [FreeCodeCamp Frontend Certification](https://www.freecodecamp.org/learn/front-end-libraries/) course. It was completed as one of the required projects in the curriculum.
+
+FreeCodeCamp (FCC) is a nonprofit organization that offers a comprehensive web development curriculum and certifications. The Frontend Certification focuses on frontend libraries and frameworks like React, and it covers various topics including HTML, CSS, JavaScript, and more.
+
+Learn more about FreeCodeCamp and their educational programs on their official website: [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
