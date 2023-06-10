@@ -55,7 +55,7 @@ Remember to follow the basic rules of arithmetic operations. The calculator app 
 Enjoy using the Calculator App for your everyday arithmetic calculations!
 
 ## Contributing
-Contributions to the drum machine application are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+Contributions to the calculator application are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## Credits
 This JavaScript Calculator project is part of the [FreeCodeCamp Frontend Certification](https://www.freecodecamp.org/learn/front-end-libraries/) course. It was completed as one of the required projects in the curriculum.
