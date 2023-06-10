@@ -1,6 +1,6 @@
 function App(){
     return (
-        <div>Hello js</div>
+        <div className="text-center">Hello js</div>
     )
 }
 
