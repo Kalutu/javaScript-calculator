@@ -20,10 +20,10 @@ To get a local copy of the calculator app up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/Kalutu/javaScript-calculator
 2. Change your directory to the cloned repository:
    ```bash
-   cd calculator-app
+   cd javaScript-calculator
    ```
 3. Install the dependencies:
    ```bash
