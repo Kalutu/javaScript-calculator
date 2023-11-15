@@ -1,4 +1,7 @@
-function App() {
+import React from "react"
+import "./styles.css"
+
+export default function App() {
     const [expression, setExpression] = React.useState("");
     const [answer, setAnswer] = React.useState(0);
   
@@ -112,7 +115,5 @@ function App() {
       </div>
       
     );
-  }
-  
-  ReactDOM.render(<App />, document.getElementById("root"));
+}
   
